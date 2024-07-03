@@ -6,7 +6,7 @@ import './Newsletter.css';
 
 const Newsletter = () => {
   const handleWhatsAppOrder = () => {
-    const phoneNumber = '+24104001209';
+    const phoneNumber = '+24104063769';
     const whatsappUrl = `https://wa.me/${phoneNumber}`;
     window.open(whatsappUrl, '_blank');
   };
