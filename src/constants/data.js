@@ -62,7 +62,7 @@ const awards = [
   {
     imgUrl: images.award01,
     title: 'LE MAYON, une part de bonheur dans chaque bouchée !',
-    subtitle: '2 pizzas achetées, une offerte !!!',
+    subtitle: 'Pour chaque 2 pizzas achetées, la maison vous en offre une gratuitement !',
   },
 
 ];

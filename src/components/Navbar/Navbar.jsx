@@ -15,7 +15,7 @@ const Navbar = () => {
         <li className="p__opensans"><a href="#home">Accueil</a></li>
         <li className="p__opensans"><a href="#about">À propos</a></li>
         <li className="p__opensans"><a href="#menu">Menu</a></li>
-        <li className="p__opensans"><a href="#awards">Récompenses</a></li>
+        <li className="p__opensans"><a href="#awards">Politiques</a></li>
         <li className="p__opensans"><a href="#contact">Contact</a></li>
       </ul>
       <div className="app__navbar-login">
